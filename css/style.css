@@ -15,8 +15,9 @@ h1, h3{
 
 /* Regole Header */
 header{
-    height: 110px;
     width: 100%;
+    position: fixed;
+    background-color: white;
 }
 .logo{
     height: 55px;
@@ -58,7 +59,7 @@ a{
 
 /* Regole Main */
 main{
-    margin-top: 100px;
+    padding-top: 150px;
     width: 100%;
 }
 .container-main{
